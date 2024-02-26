@@ -1,0 +1,284 @@
+{
+  "CSK": {
+    "status": "Not Taken",
+    "players": [
+        { "Name" :"Ambati Rayudu","specialism": "WicketKeeper", "nationality": "India"},
+        {"Name" :"Deepak Chahar","specialism": "Bowler", "nationality": "India"},
+        {"Name" :"Devon Conway","specialism": "Batsman", "nationality": "New Zealand"},
+        {"Name" :"Dwaine Pretorius","specialism": "All-Rounder", "nationality": "South Africa"},
+        {"Name" :"Maheesh Theekshana","specialism": "Bowler", "nationality": "Sri Lanka"},
+        {"Name" :"Matheesha Pathirana","specialism": "Bowler", "nationality": "Sri Lanka"},
+        {"Name" :"Mitchell Santner","specialism": "All-Rounder", "nationality": "New Zealand"},
+        {"Name" :"Moeen Ali","specialism": "All-Rounder", "nationality": "England"},
+        {"Name" :"MS Dhoni","specialism": "WicketKeeper", "nationality": "India"},
+        {"Name" :"Mukesh Choudhary","specialism": "Bowler", "nationality": "India"},
+        {"Name" :"Prashant Solanki","specialism": "Bowler", "nationality": "India"},
+        {"Name" :"Rajvardhan Hangargekar","specialism": "Bowler", "nationality": "India"},
+        {"Name" :"Ravindra Jadeja","specialism": "All-Rounder", "nationality": "India"},
+        {"Name" :"Ruturaj Gaikwad","specialism": "Batsman", "nationality": "India"},
+        {"Name" :"Shivam Dube","specialism": "All-Rounder", "nationality": "India"},
+        {"Name" :"Simarjeet Singh","specialism": "Bowler", "nationality": "India"},
+        {"Name" :"Subhranshu Senapati" ,"specialism": "Batsman", "nationality": "India"},
+        {"Name" :"Tushar Deshpande","specialism": "Bowler", "nationality": "India"}
+    ],
+    "slots":{
+      "Batsman": { "in": 2, "Over": 1 },
+      "Bowler": { "in": 6, "Over": 2 },
+      "All-rounder": { "in": 2, "Over": 3 },
+      "Wicketkeeper": { "in": 2, "Over": 0 }
+    },
+    "rem_purse":2045
+  },
+  "MI": {
+    "status": "Not Taken",
+    "players":[
+        { "Name": "Akash Madhwal", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Arjun Tendulkar", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Dewald Brevis", "specialism": "All-Rounder", "nationality": "South Africa" },
+        { "Name": "Hrithik Shokeen", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Ishan Kishan", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Jason Behrendorff", "specialism": "Bowler", "nationality": "Australia" },
+        { "Name": "Jasprit Bumrah", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Jofra Archer", "specialism": "Bowler", "nationality": "England" },
+        { "Name": "Kumar Kartikeya Singh", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Mohd. Arshad Khan", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "N. Tilak Varma", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Ramandeep Singh", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Rohit Sharma", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Suryakumar Yadav", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Tim David", "specialism": "Batsman", "nationality": "Singapore" },
+        { "Name": "Tristan Stubbs", "specialism": "Batsman", "nationality": "Australia" }
+      ],
+      "slots":{
+        "Batsman": { "in": 5, "Over": 2 },
+        "Bowler": { "in": 4, "Over": 2 },
+        "All-rounder": { "in": 1, "Over": 1 },
+        "Wicketkeeper": { "in": 1, "Over": 0 }
+      },
+      "rem_purse":2055
+  },
+  "RCB": {
+    "status": "Not Taken",
+    "players": [
+        { "Name": "Akash Deep", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Anuj Rawat", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "David Willey*", "specialism": "All-Rounder", "nationality": "England" },
+        { "Name": "Dinesh Karthik", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Faf Du Plessis", "specialism": "Batsman", "nationality": "South Africa" },
+        { "Name": "Finn Allen", "specialism": "Batsman", "nationality": "New Zealand" },
+        { "Name": "Glenn Maxwell", "specialism": "All-Rounder", "nationality": "Australia" },
+        { "Name": "Harshal Patel", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Josh Hazlewood", "specialism": "Bowler", "nationality": "Australia" },
+        { "Name": "Karn Sharma", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Mahipal Lomror", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Mohammed Siraj", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Rajat Patidar", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Shahbaz Ahamad", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Siddharth Kaul", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Suyash Prabhudessai", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Virat Kohli", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Wanindu Hasaranga", "specialism": "All-Rounder", "nationality": "Sri Lanka" }
+      ],
+      "slots":{
+        "Batsman": { "in": 2, "Over": 2 },
+        "Bowler": { "in": 6, "Over": 1 },
+        "All-rounder": { "in": 2, "Over": 3 },
+        "Wicketkeeper": { "in": 1, "Over": 0 }
+      },
+      "rem_purse":8750
+  },
+  "RR": {
+    "status": "Not Taken",
+    "players":[
+        { "Name": "Devdutt Padikkal", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Dhruv Jurel", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Jos Buttler", "specialism": "WicketKeeper", "nationality": "England" },
+        { "Name": "K.C Cariappa", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Kuldeep Sen", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Kuldip Yadav", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Navdeep Saini", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Obed Mccoy", "specialism": "Bowler", "nationality": "West Indies" },
+        { "Name": "Prasidh Krishna", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "R. Ashwin", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Riyan Parag", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Sanju Samson", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Shimron Hetmyer", "specialism": "Batsman", "nationality": "West Indies" },
+        { "Name": "Trent Boult", "specialism": "Bowler", "nationality": "New Zealand" },
+        { "Name": "Yashasvi Jaiswal", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Yuzvendra Chahal", "specialism": "Bowler", "nationality": "India" }
+      ],
+      "slots":{
+        "Batsman": { "in": 2, "Over": 1 },
+        "Bowler": { "in": 7, "Over": 2 },
+        "All-rounder": { "in": 1, "Over": 0 },
+        "Wicketkeeper": { "in": 2, "Over": 1 }
+      },
+      "rem_purse":1320
+  },
+  "SRH": {
+    "status": "Not Taken",
+    "players":[
+        { "Name": "Abdul Samad", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Abhishek Sharma", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Aiden Markram", "specialism": "Batsman", "nationality": "South Africa" },
+        { "Name": "Bhuvneshwar Kumar", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Fazalhaq Farooqi", "specialism": "Bowler", "nationality": "Afghanistan" },
+        { "Name": "Glenn Phillips", "specialism": "WicketKeeper", "nationality": "New Zealand" },
+        { "Name": "Kartik Tyagi", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Marco Jansen", "specialism": "All-Rounder", "nationality": "South Africa" },
+        { "Name": "Rahul Tripathi", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "T. Natarajan", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Umrar Malik", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Washington Sundar", "specialism": "All-Rounder", "nationality": "India" }
+      ],
+      "slots":{
+        "Batsman": { "in": 1, "Over": 1 },
+        "Bowler": { "in": 4, "Over": 1 },
+        "All-rounder": { "in": 3, "Over": 1 },
+        "Wicketkeeper": { "in": 0, "Over": 1 }
+      },
+      "rem_purse":4225
+  },
+  "LSG": {
+    "status": "Not Taken",
+    "players": [
+        { "Name": "Avesh Khan", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Ayush Badoni", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Deepak Hooda", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "K. Gowtham", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Karan Sharma", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "KL Rahul", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Krunal Pandya", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Kyle Mayers", "specialism": "All-Rounder", "nationality": "West Indies" },
+        { "Name": "Manan Vohra", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Marcus Stoinis", "specialism": "All-Rounder", "nationality": "Australia" },
+        { "Name": "Mark Wood", "specialism": "Bowler", "nationality": "England" },
+        { "Name": "Mayank Yadav", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Mohsin Khan", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Quinton De Kock", "specialism": "WicketKeeper", "nationality": "South Africa" },
+        { "Name": "Ravi Bishnoi", "specialism": "Bowler", "nationality": "India" }
+      ],
+      "slots":{
+        "Batsman": { "in": 5, "Over": 0 },
+        "Bowler": { "in": 4, "Over": 1 },
+        "All-rounder": { "in": 3, "Over": 2 },
+        "Wicketkeeper": { "in": 0, "Over": 1 }
+      }
+  },
+  "GT": {
+    "status": "Not Taken",
+    "players":[
+        { "Name": "Abhinav Sadarangani", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Alzarri Joseph", "specialism": "Bowler", "nationality": "West Indies" },
+        { "Name": "B. Sai Sudharsan", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Darshan Nalkande", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "David Miller", "specialism": "Batsman", "nationality": "South Africa" },
+        { "Name": "Hardik Pandya", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Jayant Yadav", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Matthew Wade", "specialism": "WicketKeeper", "nationality": "Australia" },
+        { "Name": "Mohammad Shami", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Noor Ahmad", "specialism": "Bowler", "nationality": "Afghanistan" },
+        { "Name": "Pradeep Sangwan", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "R. Sai Kishore", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Rahul Tewatia", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Rashid Khan", "specialism": "Bowler", "nationality": "Afghanistan" },
+        { "Name": "Shubman Gill", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Vijay Shankar", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Wriddhiman Saha", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Yash Dayal", "specialism": "Bowler", "nationality": "India" }
+      ],
+      "slots":{
+        "Batsman": { "in": 2, "Over": 1 },
+        "Bowler": { "in": 5, "Over": 3 },
+        "All-rounder": { "in": 5, "Over": 0 },
+        "Wicketkeeper": { "in": 1, "Over": 1 }
+      },
+      "rem_purse":2335
+  },
+  "PBKS": {
+    "status": "Not Taken",
+    "players": [
+        { "Name": "Shikhar Dhawan", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Shahrukh Khan", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Rahul Chahar", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Arshdeep Singh", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Harpreet Brar", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Raj Angad Bawa", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Prabhsimran Singh", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Rishi Dhawan", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Jitesh Sharma", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Baltej Singh Dhanda", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Atharva Taide", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Liam Livingstone", "specialism": "All-Rounder", "nationality": "England" },
+        { "Name": "Kagiso Rabada", "specialism": "Bowler", "nationality": "South Africa" },
+        { "Name": "Jonny Bairstow", "specialism": "WicketKeeper", "nationality": "England" },
+        { "Name": "Nathan Ellis", "specialism": "Bowler", "nationality": "Australia" },
+        { "Name": "Bhanuka Rajapakse", "specialism": "Batsman", "nationality": "Sri Lanka" }
+      ],
+      "slots":{
+        "Batsman": { "in": 4, "Over": 1 },
+        "Bowler": { "in": 2, "Over": 2 },
+        "All-rounder": { "in": 3, "Over": 1 },
+        "Wicketkeeper": { "in": 4, "Over": 1 }
+      },
+      "rem_purse":3220
+  },
+  "DC": {
+    "status": "Not Taken",
+    "players":[
+        { "Name": "Aman Khan", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Anrich Nortje", "specialism": "Bowler", "nationality": "South Africa" },
+        { "Name": "Axar Patel", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Chetan Sakariya", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "David Warner", "specialism": "Batsman", "nationality": "Australia" },
+        { "Name": "Kamlesh Nagarkoti", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Kuldeep Yadav", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Lalit Yadav", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Lungisani Ngidi", "specialism": "Bowler", "nationality": "South Africa" },
+        { "Name": "Mitchell Marsh", "specialism": "All-Rounder", "nationality": "Australia" },
+        { "Name": "Mustafizur Rahman", "specialism": "Bowler", "nationality": "Bangladesh" },
+        { "Name": "Pravin Dubey", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Prithvi Shaw", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Ripal Patel", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Rishabh Pant", "specialism": "WicketKeeper", "nationality": "India" },
+        { "Name": "Rovman Powell", "specialism": "All-Rounder", "nationality": "West Indies" },
+        { "Name": "Sarfaraz Khan", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Syed Khaleel Ahmed", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Vicky Ostwal", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Yash Dhull", "specialism": "Batsman", "nationality": "India" }
+      ],
+      "slots":{
+        "Batsman": { "in": 3, "Over": 1 },
+        "Bowler": { "in": 4, "Over": 1 },
+        "All-rounder": { "in": 5, "Over": 2 },
+        "Wicketkeeper": { "in": 1, "Over": 0 }
+      },
+      "rem_purse":1945
+  },
+  "KKR": {
+    "status": "Not Taken",
+    "players": [
+        { "Name": "Andre Russell", "specialism": "All-Rounder", "nationality": "West Indies" },
+        { "Name": "Anukul Roy", "specialism": "All-Rounder", "nationality": "India" },
+        { "Name": "Harshit Rana", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Lockie Ferguson", "specialism": "Bowler", "nationality": "New Zealand" },
+        { "Name": "Nitish Rana", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Rahmanullah Gurbaz", "specialism": "WicketKeeper", "nationality": "Afghanistan" },
+        { "Name": "Rinku Singh", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Shardul Thakur", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Shreyas Iyer", "specialism": "Batsman", "nationality": "India" },
+        { "Name": "Sunil Narine", "specialism": "All-Rounder", "nationality": "West Indies" },
+        { "Name": "Tim Southee", "specialism": "Bowler", "nationality": "New Zealand" },
+        { "Name": "Umesh Yadav", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Varun Chakaravarthy", "specialism": "Bowler", "nationality": "India" },
+        { "Name": "Venkatesh Iyer", "specialism": "All-Rounder", "nationality": "India" }
+      ],
+      "slots":{
+        "Batsman": { "in": 4, "Over": 0 },
+        "Bowler": { "in": 3, "Over": 2 },
+        "All-rounder": { "in": 2, "Over": 2 },
+        "Wicketkeeper": { "in": 0, "Over": 1 }
+      },
+      "rem_purse":705
+  }
+}
